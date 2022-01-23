@@ -1,0 +1,609 @@
+.headerfirst{
+    
+    height: 100px;
+    width: 100%;
+    border-bottom: 1px solid black;
+    display: flex;
+}
+
+.LogoValanta{
+    width: 240px;
+    height: 90px;
+    padding-top: 17px;
+    padding-left: 100px;
+}
+
+.borderhr{
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.language{
+    position: absolute;
+    top: 15px;
+    left: 350px;
+
+}
+
+.borderhrsecond{
+    position: absolute;
+    top: 30px;
+    left: 425px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.money{
+    position: absolute;
+    top: 15px;
+    left: 470px;
+}
+
+.borderdhrthird{
+    position: absolute;
+    top: 30px;
+    left: 575px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.icons{
+    font-size: 30px;
+    position: absolute;
+    left: 600px;
+    top: 30px;
+    
+
+}
+
+.icon{
+   
+    text-decoration: none;
+    color: black;
+}
+
+.icon-phone{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    bottom: 985px;
+    left: 20px;
+
+}
+
+.borderhrfourth{
+    position: absolute;
+    top: 30px;
+    left: 715px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.numbers{
+    position: absolute;
+    top: 15px;
+    left: 750px;
+}
+
+.phone{
+    font-size: 60px;
+    position: absolute;
+    top: 25px;
+    left: 870px;
+}
+
+.borderhrfifth{
+    position: absolute;
+    top: 30px;
+    left: 950px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+
+}
+
+.input{
+    text-align: center;
+    position: absolute;
+    height: 50px;
+    width: 186px;
+    left: 1000px;
+    top: 27px;
+}
+
+.redsquare{
+    position: absolute;
+    left: 1193px;
+    top: 27px;
+    width: 55px;
+    height: 56px;
+    background-color: red;
+    text-align: center;
+    font-size: 37px;
+    color: white;
+
+}
+
+.inputsecond{
+    text-align: center;
+    position: absolute;
+    height: 50px;
+    width: 186px;
+    left: 1350px;
+    top: 27px;
+}
+
+.greensquare{
+    
+    position: absolute;
+    left: 1543px;
+    top: 27px;
+    width: 55px;
+    height: 56px;
+    background-color: #4AD295;
+    text-align: center;
+    font-size: 37px;
+    color: white;
+
+}
+
+.RU{
+    color: white;
+    border: 1px solid #4AD295;
+    background-color: #4AD295;
+}
+
+.headersecond:hover{
+    text-decoration: none;
+
+
+}
+
+.headersecond{
+    
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid black;
+    
+}
+
+.search{
+    position: absolute;
+    top: 115px;
+    left: 200px;
+}
+
+.links{
+    
+    position: absolute;
+    top: 115px;
+    left: 350px;
+
+
+}
+
+.links1{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links2{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links3{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links4{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links5{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links6{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links7{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links8{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links9{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.underslider{
+    
+    height: 350px;
+    width: 100%;
+    background-color: rgb(224, 224, 224);
+
+
+}
+
+.underslider-text{
+    width: 650px;
+    height: 10px;
+    position: absolute;
+    left: 280px;
+    top: 600px;
+}
+
+.underslider-p{
+    position: absolute;
+    left: 280px;
+    top: 680px;
+    font-size: 20px;
+}
+
+.underslider-button-first{
+    width: 270px;
+    height: 55px;
+    position: absolute;
+    top: 750px;
+    left: 280px;
+}
+
+.underslider-button-second{
+    width: 250px;
+    height: 55px;
+    position: absolute;
+    top: 750px;
+    left: 560px;
+}
+
+.underslider-icon-text-first{
+    display: flex;
+    position: absolute;
+    top: 600px;
+    left: 1100px;
+}
+
+.underslider-icon-first{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    border: 1px dashed black;
+    border-radius:75% ;
+}
+
+.underslider-icon-text-second{
+    display: flex;
+    position: absolute;
+    top: 670px;
+    left: 1100px;
+}
+
+.underslider-icon-second{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    border: 1px dashed black;
+    border-radius:75% ;
+}
+
+.underslider-icon-text-third{
+    display: flex;
+    position: absolute;
+    top: 740px;
+    left: 1100px;
+}
+
+.underslider-icon-third{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    border: 1px dashed black;
+    border-radius:75% ;
+}
+
+.fa-hand-holding-heart{
+    margin-left: 8px;
+}
+
+.fa-hand-holding-usd{
+    margin-left: 8px;
+}
+
+.fa-star{
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.best-hotel{
+    padding: 20px;
+    padding-left: 300px;
+
+
+}
+
+.portnovi{
+    border: 1px solid black;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.best-hotel-hr{
+    width: 620px;
+    position: absolute;
+    top: 1370px;
+    left: 600px;
+
+
+}
+
+.all-hotels{
+    position: absolute;
+    top: 1000px;
+    left: 1250px;
+    width: 210px;
+    height: 40px;
+}
+
+.tours{
+    padding: 20px;
+    padding-left: 300px;
+}
+
+.tours-hr{
+    position: absolute;
+    top: 650px;
+    left: 500px;
+    width: 570px;
+}
+
+.all-tours{
+    position: absolute;
+    top: 1700px;
+    left: 1250px;
+    width: 210px;
+    height: 40px;
+
+}
+
+.uk-card-default{
+    height: 800px;
+}
+
+.all-tours-div{
+    background-color: whitesmoke;
+    height: 650px;
+    width: 100%;
+    padding-left: 50px;
+}
+
+.all-tours-first{
+    background-color: rgb(197, 197, 197);
+    height: 650px;
+    width: 500px;
+}
+
+
+
+.all-tours-first-photo{
+    height: 300px;
+    width: 500px;
+}
+
+.price-first{
+    font-size: 40px;
+    position: absolute;
+    left: 70px;
+    color: red;
+}
+
+.price-first{
+    font-size: 40px;
+    position: absolute;
+    left: 220px;
+    color: red;
+}
+
+.price{
+    font-size: 40px;
+    position: absolute;
+    left: 180px;
+    color: red;
+}
+
+
+
+.all-tours-first-date{
+    position: absolute;
+    width: 100px;
+    top: 2000px;
+    left: 250px;
+
+}
+
+
+
+.all-tours-second{
+    background-color: rgb(197, 197, 197);
+    height: 650px;
+    width: 500px;
+    position: absolute;
+    left: 730px;
+    top: 1802px;
+
+}
+
+.all-tours-second-date{
+    position: absolute;
+    width: 100px;
+    top: 534px;
+    left: 210px;
+
+
+}
+
+.all-tours-thirth{
+    background-color: rgb(197, 197, 197);
+    height: 650px;
+    width: 500px;
+    position: absolute;
+    left: 1360px;
+    top: 1802px;
+}
+
+.all-tours-thirth-date{
+    position: absolute;
+    width: 100px;
+    top: 534px;
+    left: 210px;
+
+
+}
+
+
+.dropdown-nav{
+    color: black;
+    padding-top: 30px;
+    margin-left: 700px;
+}
+
+.from{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 700px;
+
+}
+
+.where{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 760px;
+
+}
+
+.date{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 920px;
+}
+
+.toruists{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 990px;
+
+}
+
+.nights{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 1100px;
+    
+}
+
+.dropdown{
+    height: 300px;
+    
+}
+
+p{
+
+    text-align: center;
+
+}
+
+nav{
+    height: 120px;
+    margin: 50px 0;
+    background-color: rgb(44, 44, 44);
+
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+
+}
+
+nav ul li{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+
+}
+
+nav a{
+    display: block;
+    padding: 0 auto;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 60px;
+    text-decoration: none;
+
+
+}
+
+nav a:hover{
+    background-color: rgb(143, 143, 143);
+    color: white;
+    text-decoration: none;
+}
+
+nav ul ul{
+    padding-top: 33px;
+    display: none;
+    position: absolute;
+    top: 60px;
+}
+
+nav ul li:hover > ul{
+    display: inherit;
+}
+
+nav ul ul li {
+    width: 170px;
+    float: none;
+    display: list-item;
+    position: relative;
+}
+
+nav ul ul ul li{
+    position: relative;
+    top: -60px;
+    left: 170px;
+
+
+}
